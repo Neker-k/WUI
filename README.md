@@ -2,6 +2,10 @@
 A modest attempt at designing web human interfaces using only JavaScript
 
 
+## Why ?
+
+Tired of juggling three different languages to draft the simplest web interaction.
+
 ## What is what ?
 
 * structure.js : the structure of what will be rendered, described as JavaScript objects. Intended to be modified at will according to desired result.
