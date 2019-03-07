@@ -67,3 +67,5 @@ A style object looks pretty much like its CSS couterpart, and works the same :
 * somehow, maybe, diminish the remnants of HTML and CSS syntax
 
 * consider legacy browsers ?
+
+* undoubtedly much more
