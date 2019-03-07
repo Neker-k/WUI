@@ -1,5 +1,6 @@
 # WUI
-A modest attempt at designing web human interfaces using only JavaScript
+
+A modest attempt at a generic way to design web user interfaces using only JavaScript
 
 
 ## Why ?
