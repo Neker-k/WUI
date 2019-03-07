@@ -19,7 +19,7 @@ Tired of juggling three different languages to draft the simplest web interactio
 
 ## Very basic how-to
 
-The '<body>' is an array of elements.
+The `<body>` is an array of elements.
 
 An element is either an object or an array of objects.
 
